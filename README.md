@@ -13,3 +13,5 @@ The general steps are:
   3. Create new or edit existing one template, use new custom field in the template
   4. Create a page, fill out Embed Code field.
   5. Open site or page with the channel for which template was changed
+
+###[Full documentation for integrating the GroupDocs Plugin with ExpressionEngine](http://groupdocs.com/docs/display/Viewer/Integrating+the+Plugin+with+ExpressionEngine+Using+Default+Method)
