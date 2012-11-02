@@ -1,8 +1,9 @@
-GroupDocs Viewer plugin for ExpressionEngine
+# GROUPDOCS VIEWER
+GroupDocs HTML5 PDF Viewer plugin for ExpressionEngine
 ===================
 
 
-GroupDocs Viewer plugin for EE is a Field Type, so it adds new field to pages. To work with the plugin you should be familiar with ExpressionEngine admin panel, how creat channes, templates and pages. 
+GroupDocs Viewer plugin is a [HTML5 PDF Viewer tool](http://groupdocs.com/apps/viewer) for ExpressionEngine CMS. It's implemented as a Field Type, so it adds new field to pages. To work with the plugin you should be familiar with ExpressionEngine admin panel, how creat channes, templates and pages. 
 
 Plugin adds one tag: you will created it with the name you provided (for example) GroupDocs_Viewer and can be used in templates as {GroupDocs_Viewer} tag, for example.
 
@@ -14,4 +15,13 @@ The general steps are:
   4. Create a page, fill out Embed Code field.
   5. Open site or page with the channel for which template was changed
 
-###[Full documentation for integrating the GroupDocs Plugin with ExpressionEngine](http://groupdocs.com/docs/display/Viewer/Integrating+the+Plugin+with+ExpressionEngine+Using+Default+Method)
+
+
+###[Sign, Manage, Annotate, Assemble, Compare and Convert Documents with GroupDocs](http://groupdocs.com)
+* [Doc to PDF, Doc to Docx, PPT to PDF, and other Document Conversions with GroupDocs Viewer](http://groupdocs.com/apps/viewer)
+* [DOC, DOCX, PDF Viewer in your ExpressionEngine CMS website] (http://devot-ee.com/add-ons/groupdocs-viewer)
+* [Annotate PDF, Word, Excel, Powerpoint and Images with GroupDocs Annotation](http://groupdocs.com/apps/annotation)
+* [Download Viewer plugin source here](https://github.com/groupdocs/ee-groupdocs-viewer-source)
+* [Full documentation for integrating the GroupDocs Plugin with ExpressionEngine](http://groupdocs.com/docs/display/Viewer/Integrating+GroupDocs+Viewer+Plugin+with+ExpressionEngine)
+
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
