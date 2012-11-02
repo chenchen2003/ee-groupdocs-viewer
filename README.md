@@ -1,9 +1,8 @@
-# GROUPDOCS VIEWER
 GroupDocs HTML5 PDF Viewer plugin for ExpressionEngine
 ===================
 
 
-GroupDocs Viewer plugin is a [HTML5 PDF Viewer tool](http://groupdocs.com/apps/viewer) for ExpressionEngine CMS. It's implemented as a Field Type, so it adds new field to pages. To work with the plugin you should be familiar with ExpressionEngine admin panel, how creat channes, templates and pages. 
+GroupDocs Viewer plugin is a [HTML5 PDF Viewer](http://groupdocs.com/apps/viewer) tool for ExpressionEngine CMS. It's implemented as a Field Type, so it adds new field to pages. To work with the plugin you should be familiar with ExpressionEngine admin panel, how creat channes, templates and pages. 
 
 Plugin adds one tag: you will created it with the name you provided (for example) GroupDocs_Viewer and can be used in templates as {GroupDocs_Viewer} tag, for example.
 
